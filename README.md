@@ -7,3 +7,15 @@ This project is a complete HR analytics case study for Palmoria Group, a Nigeria
 - Objective: Use data to uncover key gender-related issues and recommend actions
 - Tool Used: Microsoft Power BI
 - Data Source: Digital Skill Africa (The Incubator Hub)
+
+
+## Folder Structure
+
+## Key KPIs & DAX Metrics
+All important KPIs and measures are listed in:
+
+Documentation/KPI_and_DAX_List.md
+
+## Dashboard Screenshots
+
+
