@@ -49,3 +49,14 @@ below contains visual analysis presentation
 
 
 
+## License
+All materials in this repository are intended for educational and portfolio use only.
+Please do not copy, distribute, or modify without permission.
+
+## Conclusion
+The analysis uncovered key gender-related disparities and provided actionable insights for management. Using Power BI, Palmoria Group can track progress, make HR decisions with transparency, and comply with local salary regulations.
+
+## Data Source
+This project was completed using data provided by:
+Digital Skill Africa (The Incubator Hub)
+
