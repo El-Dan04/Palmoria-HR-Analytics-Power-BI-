@@ -17,5 +17,5 @@ All important KPIs and measures are listed in:
 Documentation/KPI_and_DAX_List.md
 
 ## Dashboard Screenshots
-
+below contains visual analysis presentation
 
